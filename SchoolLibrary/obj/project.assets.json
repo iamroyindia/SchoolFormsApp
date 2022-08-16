@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abhishekro\\source\\repos\\SchoolLibrary\\SchoolLibrary\\SchoolLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\abhishekro\\source\\repos\\SchoolFormsApp\\SchoolLibrary\\SchoolLibrary.csproj",
       "projectName": "SchoolLibrary",
-      "projectPath": "C:\\Users\\abhishekro\\source\\repos\\SchoolLibrary\\SchoolLibrary\\SchoolLibrary.csproj",
+      "projectPath": "C:\\Users\\abhishekro\\source\\repos\\SchoolFormsApp\\SchoolLibrary\\SchoolLibrary.csproj",
       "packagesPath": "C:\\Users\\abhishekro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abhishekro\\source\\repos\\SchoolLibrary\\SchoolLibrary\\obj\\",
+      "outputPath": "C:\\Users\\abhishekro\\source\\repos\\SchoolFormsApp\\SchoolLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

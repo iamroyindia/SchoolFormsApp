@@ -10,3 +10,15 @@ C:\Users\abhishekro\source\repos\SchoolLibrary\SchoolLibrary\obj\Release\net6.0-
 C:\Users\abhishekro\source\repos\SchoolLibrary\SchoolLibrary\obj\Release\net6.0-windows\SchoolLibrary.dll
 C:\Users\abhishekro\source\repos\SchoolLibrary\SchoolLibrary\obj\Release\net6.0-windows\ref\SchoolLibrary.dll
 C:\Users\abhishekro\source\repos\SchoolLibrary\SchoolLibrary\obj\Release\net6.0-windows\SchoolLibrary.pdb
+C:\Users\abhishekro\source\repos\SchoolFormsApp\SchoolLibrary\bin\Release\net6.0-windows\SchoolLibrary.deps.json
+C:\Users\abhishekro\source\repos\SchoolFormsApp\SchoolLibrary\bin\Release\net6.0-windows\SchoolLibrary.dll
+C:\Users\abhishekro\source\repos\SchoolFormsApp\SchoolLibrary\bin\Release\net6.0-windows\ref\SchoolLibrary.dll
+C:\Users\abhishekro\source\repos\SchoolFormsApp\SchoolLibrary\bin\Release\net6.0-windows\SchoolLibrary.pdb
+C:\Users\abhishekro\source\repos\SchoolFormsApp\SchoolLibrary\obj\Release\net6.0-windows\SchoolLibrary.csproj.AssemblyReference.cache
+C:\Users\abhishekro\source\repos\SchoolFormsApp\SchoolLibrary\obj\Release\net6.0-windows\SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhishekro\source\repos\SchoolFormsApp\SchoolLibrary\obj\Release\net6.0-windows\SchoolLibrary.AssemblyInfoInputs.cache
+C:\Users\abhishekro\source\repos\SchoolFormsApp\SchoolLibrary\obj\Release\net6.0-windows\SchoolLibrary.AssemblyInfo.cs
+C:\Users\abhishekro\source\repos\SchoolFormsApp\SchoolLibrary\obj\Release\net6.0-windows\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\abhishekro\source\repos\SchoolFormsApp\SchoolLibrary\obj\Release\net6.0-windows\SchoolLibrary.dll
+C:\Users\abhishekro\source\repos\SchoolFormsApp\SchoolLibrary\obj\Release\net6.0-windows\ref\SchoolLibrary.dll
+C:\Users\abhishekro\source\repos\SchoolFormsApp\SchoolLibrary\obj\Release\net6.0-windows\SchoolLibrary.pdb
