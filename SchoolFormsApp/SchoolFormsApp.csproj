@@ -6,6 +6,7 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <BaseOutputPath>C:\Users\abhishekro\Documents\Source_code\SchoolFormsApp\bin</BaseOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
